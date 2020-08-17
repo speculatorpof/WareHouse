@@ -1,0 +1,21 @@
+
+export const GiaLai = [
+    { listlabel: 'Quận/Huyện GiaLai', listvalue: '0' },
+    { listlabel: 'TP Pleiku', listvalue: 'GL1' },
+    { listlabel: 'Thị xã An Khê', listvalue: 'GL2' },
+    { listlabel: 'Thị xã Ayun Pa', listvalue: 'GL3' },
+    { listlabel: 'Huyện Chư Păh', listvalue: 'GL4' },
+    { listlabel: 'Huyện Chư Prông', listvalue: 'GL5' },
+    { listlabel: 'Huyện Chư Pưh', listvalue: 'GL6' },
+    { listlabel: 'Huyện Chư Sê', listvalue: 'GL7' },
+    { listlabel: 'Huyện Đắk Đoa', listvalue: 'GL8' },
+    { listlabel: 'Huyện Đắk Pơ', listvalue: 'GL9' },
+    { listlabel: 'Huyện Đức Cơ', listvalue: 'GL10' },
+    { listlabel: 'Huyện Ia Grai', listvalue: 'GL11' },
+    { listlabel: 'Huyện Ia Pa', listvalue: 'GL12' },
+    { listlabel: 'Huyện KBang', listvalue: 'GL13' },
+    { listlabel: 'Huyện Krông Chro', listvalue: 'GL14' },
+    { listlabel: 'Huyện Krông Pa', listvalue: 'GL15' },
+    { listlabel: 'Huyện Mang Yang', listvalue: 'GL16' },
+    { listlabel: 'Huyện Phú Thiện', listvalue: 'GL17' },
+  ]
